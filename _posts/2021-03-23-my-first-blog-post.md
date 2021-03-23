@@ -1,3 +1,10 @@
+---
+
+title: "My Awesome skills"
+
+date: 2021-03-23
+
+---
 Hey there! Take a look at my awssome skills
 Skills
 Information Technology
